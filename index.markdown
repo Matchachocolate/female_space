@@ -9,6 +9,8 @@ layout: default
             <img src= "{{ exhibit.image-url }}" style="width: 50px;">
             <div class="container">
                 <h2>{{ exhibit.name }}</h2>
+                <p>{{ exhibit.nationality }}</p>
+                <p>{{ exhibit.introduction }}</p>
             </div>
             {% endfor %}
         </div>
