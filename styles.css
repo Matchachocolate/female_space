@@ -77,12 +77,22 @@
     box-shadow: 0 4px 8px 0 rgba (0, 0, 0, 0.2);
 }
 
-.container {
-    padding: 0 16px;
+{
+    box-sizing: border-box
 }
 
-.container::after, .row::after {
-    content: "";
-    clear: both;
-    display: table;
+body {
+    background-color:#474e5d;
+    font-family: Helvetica, sans-serif;
+}
+
+.timeline::after {
+  content:'';
+  position:absolute;
+  width:6px;
+  background-color:withe;
+  top:0;
+  bottom:0;
+  left:50%;
+  margin-left: -3px
 }
