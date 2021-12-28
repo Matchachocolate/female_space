@@ -1,4 +1,4 @@
-#navigation bar
+/* navigation bar */
 .topnav {
     overflow: hidden;
     background-color: #4A4E69;
@@ -60,7 +60,7 @@
 }
 
 
-#timeline
+/* timeline */
 * {
   box-sizing: border-box;
 }
@@ -153,28 +153,31 @@ body {
     border-radius: 6px;
 }
 
+@media screen and (max-width: 600px) {
 
-.timeline::after {
-    left: 31px;
-}
-
-.container {
-    width: 100%;
-    padding-left: 70px;
-    padding-right: 25px;
-}
-
-.container::before {
-    left: 60px;
-    border: medium solid white;
-    border-width: 10px 10px 10px 0;
-    border-color: transparent white transparent transparent;
-}
-
-.left::after, .right::after {
-    left: 15px;
-}
-
-.right {
-    left: 0%;
+    .timeline::after {
+        left: 31px;
+    }
+    
+    .container {
+        width: 100%;
+        padding-left: 70px;
+        padding-right: 25px;
+    }
+    
+    .container::before {
+        left: 60px;
+        border: medium solid white;
+        border-width: 10px 10px 10px 0;
+        border-color: transparent white transparent transparent;
+    }
+    
+    .left::after, .right::after {
+        left: 15px;
+    }
+    
+    .right {
+        left: 0%;
+    }
+    
 }
