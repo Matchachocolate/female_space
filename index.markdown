@@ -6,14 +6,16 @@ layout: default
     <div class="timeline">
         <div class="container left">
             <div class="content">
-          <h2>001</h2>
-          <P>...</P>
+          <h2>Mae Carol Jemison</h2>
+        <a herf=https://images.nasa.gov/details-S92-40463.html>
+          <P>First African-American woman in space</P>
         </div>
     </div>
     <div class="container right">
         <div class="content">
-            <h2>002</h2>
-            <p>...</p>
+            <h2>Anna Lee Fisher</h2>
+            <a herf=https://images.nasa.gov/details-S85-34358>
+            <p>First mother in space</p>
         </div>
     </div>
 </div>
