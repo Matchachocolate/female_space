@@ -1,3 +1,4 @@
+#navigation bar
 .topnav {
     overflow: hidden;
     background-color: #4A4E69;
@@ -59,21 +60,32 @@
 }
 
 
+#timeline
+* {
+  box-sizing: border-box;
+}
+
 
 body {
     background-color:#22223b;
     font-family: Helvetica, sans-serif;
 }
 
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 .timeline::after {
   content:'';
   position:absolute;
   width:6px;
-  background-color:withe;
+  background-color:white;
   top:0;
   bottom:0;
   left:50%;
-  margin-left: -3px
+  margin-left: -3px;
 }
 
 .container {
@@ -113,7 +125,7 @@ body {
     z-index: 1;
     right: 30px;
     border: medium solid white;
-    border-width: 10px 0 1opx 10px;
+    border-width: 10px 0 10px 10px;
     border-color: transparent transparent transparent white;
 }
 
@@ -140,6 +152,7 @@ body {
     position: relative;
     border-radius: 6px;
 }
+
 
 .timeline::after {
     left: 31px;
