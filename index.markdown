@@ -1,5 +1,6 @@
 ---
-layout: default
+title: 
+layout: index_layout
 ---
 
 <body>
@@ -8,7 +9,7 @@ layout: default
             <div class="content">
           <h2>Mae Carol Jemison</h2>
         <a herf=https://images.nasa.gov/details-S92-40463.html></a>
-          <P>First African-American woman in space</P>
+          <p>First African-American woman in space</p>
         </div>
     </div>
     <div class="container right">
