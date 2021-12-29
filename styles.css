@@ -196,12 +196,29 @@ body {
     text-align: center;
     font-size: 20px;
     color: #c9ada7;
+    margin-right: auto;
+    margin-right: auto;
 }
 
-.main-pic {
-    width: 20px;
-    align-content: center;
+
+img {
+    display: block;
+    max-width: 35%;
+    height: auto;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+.info {
+    text-align: center;
+    font-size: 18px;
+    background-color: #22223b;
+    color: #F2E9E4;
+    margin-right: auto;
+    margin-right: auto;
+}
+
 
 .content {
     text-align: left;
@@ -210,4 +227,10 @@ body {
     color: #F2E9E4;
     margin-left: 20px;
     margin-right: 20px;
+}
+
+.quotes {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-weight: bold;
 }
