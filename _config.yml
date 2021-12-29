@@ -30,7 +30,7 @@ url: "https://female-space.netlify.app/" # the base hostname & protocol for your
 plugins:
   - jekyll-feed
 collections:
-  exhibits:
+  astronauts:
     output: true
 
 # Exclude from processing.

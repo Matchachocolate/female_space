@@ -1,9 +1,10 @@
 ---
-title: 
+title: Female in Space
 layout: index_layout
 ---
 
 <body>
+
     <div class="timeline">
         <div class="container left">
             <div class="content">
@@ -20,4 +21,11 @@ layout: index_layout
         </div>
     </div>
 </div>
+
+{% for astronaut in site.astronauts %}
+  <ul>
+  <a href = "{{ astronaut.url }}"> {{ astronaut.name }} </a><br>
+  </ul>
+{% endfor %}
+
 </body>

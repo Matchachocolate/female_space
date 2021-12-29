@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ site.baseurl }}/styles.css"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>{{ page.name }}</title>
+  </head>
+  
+  <body>
+      <div class="pic-and-name">
+          <div class="main-pic">
+              <img src="{{ page.image-url }}">
+          </div>
+          <h1>{{ page.name }}</h1>
+      </div>
+
+      <div class="content">
+          {{ content }}
+      </div>
+  </body>
+

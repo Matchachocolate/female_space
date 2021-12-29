@@ -190,3 +190,24 @@ body {
     }
     
 }
+
+/*astronaut page*/
+.pic-and-name {
+    text-align: center;
+    font-size: 20px;
+    color: #c9ada7;
+}
+
+.main-pic {
+    width: 20px;
+    align-content: center;
+}
+
+.content {
+    text-align: left;
+    font-size: 16px;
+    background-color: #22223b;
+    color: #F2E9E4;
+    margin-left: 20px;
+    margin-right: 20px;
+}
