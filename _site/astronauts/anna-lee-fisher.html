@@ -1,5 +1,3 @@
----
----
 <!doctype html >
 <html>
   <body>
@@ -10,7 +8,7 @@
       </div>
 
       <div class="topnav">
-        <a class="active" href="{{ site.baseurl }}">Home</a>
+        <a class="active" href="">Home</a>
         <a href="#about">About</a>
         <a href="#timeline">Timeline</a>
         <div class="search-container">
@@ -36,18 +34,45 @@
     <div class="container right">
         <div class="content">
         <ul>
-              {% for astronaut in site.astronauts %}
+              
 
                <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width = 100>
-               <p><a href="{{ astronaut.url }}">{{ astronaut.name }}</a></p>
-               <p>{{ astronaut.record }}</p>
+               <p><a href="/astronauts/anna-lee-fisher.html">Anna Lee Fisher</a></p>
+               <p>First mother in space</p>
 
-              {% endfor %}
+              
+
+               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width = 100>
+               <p><a href="/astronauts/mae-carol-jemison.html">Mae Carol Jemison</a></p>
+               <p>First African-American woman in space</p>
+
+              
         </ul>
       </div>
     </div>
     
-    {{ content }}
+    <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/styles.css"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Anna Lee Fisher</title>
+  </head>
+  
+  <body>
+      <div class="pic-and-name">
+          <div class="main-pic">
+              <img src="https://images-assets.nasa.gov/image/S85-34358/S85-34358~medium.jpg">
+          </div>
+          <h1>Anna Lee Fisher</h1>
+      </div>
+
+      <div class="content">
+          
+
+      </div>
+  </body>
+
+
 
 
   </body>

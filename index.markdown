@@ -3,29 +3,23 @@ title: Female in Space
 layout: index_layout
 ---
 
-<body>
-
-    <div class="timeline">
+  <div class="timeline">
         <div class="container left">
             <div class="content">
-          <h2>Mae Carol Jemison</h2>
-        <a herf=https://images.nasa.gov/details-S92-40463.html></a>
-          <p>First African-American woman in space</p>
+              <h2>Anna Lee Fisher</h2>
+              <p>First mother in space</p>
+            </div>
         </div>
-    </div>
     <div class="container right">
         <div class="content">
-            <h2>Anna Lee Fisher</h2>
-            <a herf=https://images.nasa.gov/details-S85-34358></a>
-            <p>First mother in space</p>
-        </div>
+        <ul>
+              {% for astronaut in site.astronauts %}
+
+               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width = 100>
+               <p><a href="{{ astronaut.url }}">{{ astronaut.name }}</a></p>
+               <p>{{ astronaut.record }}</p>
+
+              {% endfor %}
+        </ul>
+      </div>
     </div>
-</div>
-
-{% for astronaut in site.astronauts %}
-  <ul>
-  <a href = "{{ astronaut.url }}"> {{ astronaut.name }} </a><br>
-  </ul>
-{% endfor %}
-
-</body>

@@ -1,7 +1,7 @@
 ---
 layout: astronaut
 name: Mae Carol Jemison
-image-url: https://images.nasa.gov/details-S92-40463.html
+image-url: https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg
 nationality: USA
 record: First African-American woman in space
 year: 1992
