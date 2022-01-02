@@ -2,10 +2,10 @@
 layout: astronaut
 name: Anna Lee Fisher
 image-url: https://images-assets.nasa.gov/image/S85-34358/S85-34358~medium.jpg
-nationality: USA
+nationality: the United States
 record: First mother in space
 year: 1984
-time-in-space: 7 days 23 hours and 44 minutes
+time-in-space: 7 days, 23 hours, and 44 minutes
 birth: 24.08.1949
 ---
 
