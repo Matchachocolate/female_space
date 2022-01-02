@@ -2,10 +2,10 @@
 layout: astronaut
 name: Christina Hammock Koch
 image-url: https://images-assets.nasa.gov/image/jsc2018e095073_alt/jsc2018e095073_alt~medium.jpg
-nationality: USA
+nationality: the United States of America
 record: Longest continuous time in space
 year: 2020
-time-in-space: 328 days 13 hours 58 minutes
+time-in-space: 328 days, 13 hours, and 58 minutes
 birth: 29.01.1979
 ---
 
