@@ -1,0 +1,51 @@
+<!doctype html >
+<html>
+  <body>
+    <header>
+      <div class="header">
+        <h1>Women in Space</h1>
+        <p>An online museum of female records in space</p>
+      </div>
+
+      <div class="topnav">
+        <a class="active" href="">Home</a>
+        <a href="#about">About</a>
+        <a href="#timeline">Timeline</a>
+        <a href="/search">Search</a>
+      </div>
+      
+    </header>
+
+    
+    <head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="/styles.css"> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <title>Search the Website</title>
+</head>
+
+<!-- Html Elements for Search -->
+<br>
+<p>Search astronaut name, nationality, year of record</p>
+<div class="search-container">
+        <input type="text" id="search-input" placeholder="Search...">
+        <button type="submit"><i class="fa fa-search"></i></button> 
+        <ul id="results-container"></ul>
+</div>
+    
+<!-- Script pointing to search-script.js -->
+<script src="/js/search-script.js" type="text/javascript"></script>
+    
+<!-- Configuration -->
+<script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json'
+    })
+</script>
+
+
+  </body>
+
+</html>

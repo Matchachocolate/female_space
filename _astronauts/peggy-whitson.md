@@ -2,10 +2,10 @@
 layout: astronaut
 name: Peggy Whitson
 image-url: https://images-assets.nasa.gov/image/NHQ201803020004/NHQ201803020004~medium.jpg
-nationality: USA
+nationality: the United States of America
 record: Longest total time in space
 year: 2017
-time-in-space: 665 days 22 hours 22 minutes
+time-in-space: 665 days, 22 hours, and 22 minutes
 birth: 09.02.1960
 ---
 
@@ -33,7 +33,9 @@ Her favorite space food is chicken fajitas.
 “I never got tired of it in the 665 days I was up there.”
 </div>
 
-
+<br>
+<br>
+<br>
 -> If you would like to learn more about Peggy Whitson’s story and her passion for space, please click on the link below:
 Video: https://www.youtube.com/watch?v=jtLX6lcSvuw
 Copyright: RSA Conference (Youtube Chanel)

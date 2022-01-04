@@ -2,10 +2,10 @@
 layout: astronaut
 name: Susan Jane Helms
 image-url: 
-nationality: USA
+nationality: the United States of America
 record: Longest female spacewalk
 year: 2001
-time-in-space: 210d 23h 06min
+time-in-space: 210 days, 23 hours, and 06 minutes
 birth: 26.02.1958
 ---
 
@@ -28,7 +28,9 @@ As she was looking at our planet from space, she felt that the impact of humans 
 “There is only good that would come from sending as many people as possible to look back on our Earth and to get a sense of how beautiful and fragile it is.”
 </div>
 
-
+<br>
+<br>
+<br>
 -> If you would like to learn more about Susan Helms’s story and her passion for space, please click on the link below:
 Video: https://www.youtube.com/watch?v=brAjjXadhNc
 Copyright: Colorado Women’s Hall of Fame (Youtube Chanel)

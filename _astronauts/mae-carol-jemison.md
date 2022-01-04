@@ -2,10 +2,10 @@
 layout: astronaut
 name: Mae Carol Jemison
 image-url: https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg
-nationality: USA
+nationality: the United States of America
 record: First African-American woman in space
 year: 1992
-time-in-space: 7 days 22 hours 30 minutes
+time-in-space: 7 days, 22 hours, and 30 minutes
 birth: 17.10.1956
 ---
 
@@ -25,7 +25,9 @@ Mae Carol Jemison today is a science ambassador and makes an effort to democrati
 “I think it’s so vitally important that all people in this world are involved in the process of discovery.”
 </div>
 
-
+<br>
+<br>
+<br>
 -> If you would like to learn more about Mae Carol Jemison’s story of growing up in the 1960s and her passion for space, please click on the link below:
 
 Video: https://www.youtube.com/watch?v=tCMJW-auEhE

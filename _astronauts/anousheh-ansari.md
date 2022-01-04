@@ -5,7 +5,7 @@ image-url: https://images-assets.nasa.gov/image/jsc2006e38876/jsc2006e38876~medi
 nationality: USA / Iranian
 record: First female space tourist
 year: 2020
-time-in-space: 10d 21h 5m
+time-in-space: 10 days 21 hours and 5 minutes
 birth: 12.09.1966
 ---
 
@@ -23,7 +23,9 @@ She became the first female space tourist spending nine days on the Internationa
 
 Today, Ansari is CEO of XPrize which is a California-based nonprofit organization that supports scientific innovation.
 
-
+<br>
+<br>
+<br>
 -> If you would like to learn more about Anousheh Ansari’s story and her passion for space, please click on the link below:
 
 Video: https://www.youtube.com/watch?v=rSQlIrVzcRE

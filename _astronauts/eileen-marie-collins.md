@@ -21,6 +21,9 @@ She had logged 419 hours in space by the time she was chosen by NASA to become i
 Collins retired from the Air Force in 2005 and one year later from NASA. Since then, she has received many honors and awards, including induction into the National Women’s Hall of Fame as well as the Encyclopedia Britannica’s list of 300 Women Who Changed the World.
 
 
+<br>
+<br>
+<br>
 -> If you would like to learn more about Eileen Collins’ story and her passion for space, please click on the link below:
 
 Video: https://www.youtube.com/watch?v=BHNRPkR0LHk
