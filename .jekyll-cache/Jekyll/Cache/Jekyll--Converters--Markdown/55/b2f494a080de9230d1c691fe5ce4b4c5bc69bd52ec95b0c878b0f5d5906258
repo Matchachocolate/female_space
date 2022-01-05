@@ -1,4 +1,4 @@
-I"ß<div class="main-container">
+I"ú<div class="main-container">
     
     <div class="text-wrapper">
         <div class="ait">
@@ -56,6 +56,15 @@
     
     <div class="text-wrapper">
         <div class="ait">
+            <h2>2012</h2>
+            <h3><a href="/astronauts/liu-yang.html">Liu Yang</a></h3>
+            <p>First Chinese  woman in space</p>
+            <p>13 days</p>
+        </div>
+    </div>
+    
+    <div class="text-wrapper">
+        <div class="ait">
             <h2>1992</h2>
             <h3><a href="/astronauts/mae-carol-jemison.html">Mae Carol Jemison</a></h3>
             <p>First African-American woman in space</p>
@@ -69,6 +78,15 @@
             <h3><a href="/astronauts/peggy-whitson.html">Peggy Whitson</a></h3>
             <p>Longest total time in space</p>
             <p>665 days, 22 hours, and 22 minutes</p>
+        </div>
+    </div>
+    
+    <div class="text-wrapper">
+        <div class="ait">
+            <h2>1983</h2>
+            <h3><a href="/astronauts/sally-ride.html">Sally Ride</a></h3>
+            <p>First American woman in space</p>
+            <p>14 days, 7 hours, and 46 minutes</p>
         </div>
     </div>
     
@@ -150,6 +168,12 @@
               
 
                <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
+               <p><a href="/astronauts/liu-yang.html">Liu Yang</a></p>
+               <p>First Chinese  woman in space</p>
+
+              
+
+               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
                <p><a href="/astronauts/mae-carol-jemison.html">Mae Carol Jemison</a></p>
                <p>First African-American woman in space</p>
 
@@ -158,6 +182,12 @@
                <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
                <p><a href="/astronauts/peggy-whitson.html">Peggy Whitson</a></p>
                <p>Longest total time in space</p>
+
+              
+
+               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
+               <p><a href="/astronauts/sally-ride.html">Sally Ride</a></p>
+               <p>First American woman in space</p>
 
               
 

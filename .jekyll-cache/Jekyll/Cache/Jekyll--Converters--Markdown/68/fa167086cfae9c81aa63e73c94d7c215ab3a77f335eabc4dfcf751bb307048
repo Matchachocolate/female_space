@@ -1,37 +1,11 @@
-<!doctype html >
-<html>
-  <body>
-    <header>
-      <div class="header">
-        <h1>Women in Space</h1>
-        <p>An online museum of female records in space</p>
-      </div>
-
-      <div class="topnav">
-        <a class="active" href="">Home</a>
-        <a href="#about">About</a>
-        <a href="#timeline">Timeline</a>
-        <a href="/search">Search</a>
-      </div>
-      
-    </header>
-
-    
-    <head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="/styles.css"> 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <title>Female in Space</title>
-</head>
-
-<div class="main-container">
+I"�<div class="main-container">
     
     <div class="text-wrapper">
         <div class="ait">
-            <h2>1984</h2>
-            <h3><a href="/astronauts/anna-lee-fisher.html">Anna Lee Fisher</a></h3>
-            <p>First mother in space</p>
-            <p>7d 23h 44min</p>
+            <h2>1983</h2>
+            <h3><a href="/astronauts/anna-lee-fisher.html">Sally Ride</a></h3>
+            <p>First American woman in space</p>
+            <p>14 days, 7 hours, and 46 minutes</p>
         </div>
     </div>
     
@@ -55,28 +29,10 @@
     
     <div class="text-wrapper">
         <div class="ait">
-            <h2>1994</h2>
-            <h3><a href="/astronauts/chiaki-mukai.html">Chiaki Mukai</a></h3>
-            <p>First Japanese  woman in space</p>
-            <p>13 days</p>
-        </div>
-    </div>
-    
-    <div class="text-wrapper">
-        <div class="ait">
             <h2>2020</h2>
             <h3><a href="/astronauts/christina-hammock-koch.html">Christina Hammock Koch</a></h3>
             <p>Longest continuous time in space</p>
             <p>328 days 13 hours 58 minutes</p>
-        </div>
-    </div>
-    
-    <div class="text-wrapper">
-        <div class="ait">
-            <h2>2001</h2>
-            <h3><a href="/astronauts/claudie-haignere.html">Claudie Haigneré</a></h3>
-            <p>First French woman in space</p>
-            <p>25 days, 14 hours, and 22  minutes</p>
         </div>
     </div>
     
@@ -91,28 +47,10 @@
     
     <div class="text-wrapper">
         <div class="ait">
-            <h2>1993</h2>
-            <h3><a href="/astronauts/ellen-ochoa.html">Ellen Ochoa</a></h3>
-            <p>First Hispanic woman in space</p>
-            <p>41 days, 19 hours, and 35  minutes</p>
-        </div>
-    </div>
-    
-    <div class="text-wrapper">
-        <div class="ait">
             <h2>1991</h2>
             <h3><a href="/astronauts/helen-sharman.html">Helen Sharman</a></h3>
             <p>First British and first woman to visit the Mir space station</p>
             <p>7 days, 21 hours, and 13 minutes</p>
-        </div>
-    </div>
-    
-    <div class="text-wrapper">
-        <div class="ait">
-            <h2>2012</h2>
-            <h3><a href="/astronauts/liu-yang.html">Liu Yang</a></h3>
-            <p>First Chinese  woman in space</p>
-            <p>13 days</p>
         </div>
     </div>
     
@@ -136,33 +74,6 @@
     
     <div class="text-wrapper">
         <div class="ait">
-            <h2>1992</h2>
-            <h3><a href="/astronauts/roberta-bondar.html">Roberta Bondar</a></h3>
-            <p>First canadian woman in space; First neurologist in space</p>
-            <p>41 days, 19 hours, and 35  minutes</p>
-        </div>
-    </div>
-    
-    <div class="text-wrapper">
-        <div class="ait">
-            <h2>1983</h2>
-            <h3><a href="/astronauts/sally-ride.html">Sally Ride</a></h3>
-            <p>First American woman in space</p>
-            <p>14 days, 7 hours, and 46 minutes</p>
-        </div>
-    </div>
-    
-    <div class="text-wrapper">
-        <div class="ait">
-            <h2>2014</h2>
-            <h3><a href="/astronauts/samantha-cristoferetti.html">Samantha Cristoforetti</a></h3>
-            <p>First Italian woman in space; the European with the longest continuous time in space</p>
-            <p>199 days, 16 hours, and 42 minutes</p>
-        </div>
-    </div>
-    
-    <div class="text-wrapper">
-        <div class="ait">
             <h2>2001</h2>
             <h3><a href="/astronauts/susan-jane-helms.html">Susan Jane Helms</a></h3>
             <p>Longest female spacewalk</p>
@@ -181,28 +92,10 @@
     
     <div class="text-wrapper">
         <div class="ait">
-            <h2>1963</h2>
-            <h3><a href="/astronauts/valentina-tereshkova.html">Valentina Tereshkova</a></h3>
-            <p>First Korean woman in space</p>
-            <p>2 days, 22 hours, and 50  minutes</p>
-        </div>
-    </div>
-    
-    <div class="text-wrapper">
-        <div class="ait">
             <h2>2021</h2>
             <h3><a href="/astronauts/wally-funk.html">Wally Funk</a></h3>
             <p>Oldest woman in space</p>
             <p>10 minutes and 18 seconds</p>
-        </div>
-    </div>
-    
-    <div class="text-wrapper">
-        <div class="ait">
-            <h2>2008</h2>
-            <h3><a href="/astronauts/yi-so-yeon.html">Yi So-yeon</a></h3>
-            <p>First Korean woman in space</p>
-            <p>10 days, 21 hours</p>
         </div>
     </div>
     
@@ -221,8 +114,8 @@
               
 
                <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
-               <p><a href="/astronauts/anna-lee-fisher.html">Anna Lee Fisher</a></p>
-               <p>First mother in space</p>
+               <p><a href="/astronauts/anna-lee-fisher.html">Sally Ride</a></p>
+               <p>First American woman in space</p>
 
               
 
@@ -239,20 +132,8 @@
               
 
                <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
-               <p><a href="/astronauts/chiaki-mukai.html">Chiaki Mukai</a></p>
-               <p>First Japanese  woman in space</p>
-
-              
-
-               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
                <p><a href="/astronauts/christina-hammock-koch.html">Christina Hammock Koch</a></p>
                <p>Longest continuous time in space</p>
-
-              
-
-               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
-               <p><a href="/astronauts/claudie-haignere.html">Claudie Haigneré</a></p>
-               <p>First French woman in space</p>
 
               
 
@@ -263,20 +144,8 @@
               
 
                <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
-               <p><a href="/astronauts/ellen-ochoa.html">Ellen Ochoa</a></p>
-               <p>First Hispanic woman in space</p>
-
-              
-
-               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
                <p><a href="/astronauts/helen-sharman.html">Helen Sharman</a></p>
                <p>First British and first woman to visit the Mir space station</p>
-
-              
-
-               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
-               <p><a href="/astronauts/liu-yang.html">Liu Yang</a></p>
-               <p>First Chinese  woman in space</p>
 
               
 
@@ -293,24 +162,6 @@
               
 
                <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
-               <p><a href="/astronauts/roberta-bondar.html">Roberta Bondar</a></p>
-               <p>First canadian woman in space; First neurologist in space</p>
-
-              
-
-               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
-               <p><a href="/astronauts/sally-ride.html">Sally Ride</a></p>
-               <p>First American woman in space</p>
-
-              
-
-               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
-               <p><a href="/astronauts/samantha-cristoferetti.html">Samantha Cristoforetti</a></p>
-               <p>First Italian woman in space; the European with the longest continuous time in space</p>
-
-              
-
-               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
                <p><a href="/astronauts/susan-jane-helms.html">Susan Jane Helms</a></p>
                <p>Longest female spacewalk</p>
 
@@ -323,29 +174,12 @@
               
 
                <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
-               <p><a href="/astronauts/valentina-tereshkova.html">Valentina Tereshkova</a></p>
-               <p>First Korean woman in space</p>
-
-              
-
-               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
                <p><a href="/astronauts/wally-funk.html">Wally Funk</a></p>
                <p>Oldest woman in space</p>
-
-              
-
-               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
-               <p><a href="/astronauts/yi-so-yeon.html">Yi So-yeon</a></p>
-               <p>First Korean woman in space</p>
 
               
         </ul>
       </div>
     </div>
 </div>
-
-
-
-  </body>
-
-</html>
+:ET

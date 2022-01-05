@@ -1,30 +1,4 @@
-<!doctype html >
-<html>
-  <body>
-    <header>
-      <div class="header">
-        <h1>Women in Space</h1>
-        <p>An online museum of female records in space</p>
-      </div>
-
-      <div class="topnav">
-        <a class="active" href="">Home</a>
-        <a href="#about">About</a>
-        <a href="#timeline">Timeline</a>
-        <a href="/search">Search</a>
-      </div>
-      
-    </header>
-
-    
-    <head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="/styles.css"> 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <title>Female in Space</title>
-</head>
-
-<div class="main-container">
+I"K)<div class="main-container">
     
     <div class="text-wrapper">
         <div class="ait">
@@ -76,7 +50,7 @@
             <h2>2001</h2>
             <h3><a href="/astronauts/claudie-haignere.html">Claudie Haigneré</a></h3>
             <p>First French woman in space</p>
-            <p>25 days, 14 hours, and 22  minutes</p>
+            <p>199 days, 16 hours, and 42 minutes</p>
         </div>
     </div>
     
@@ -86,15 +60,6 @@
             <h3><a href="/astronauts/eileen-marie-collins.html">Eileen Marie Collins</a></h3>
             <p>First woman to fly the space shuttle</p>
             <p>38 days 08 hours 20 minutes</p>
-        </div>
-    </div>
-    
-    <div class="text-wrapper">
-        <div class="ait">
-            <h2>1993</h2>
-            <h3><a href="/astronauts/ellen-ochoa.html">Ellen Ochoa</a></h3>
-            <p>First Hispanic woman in space</p>
-            <p>41 days, 19 hours, and 35  minutes</p>
         </div>
     </div>
     
@@ -131,15 +96,6 @@
             <h3><a href="/astronauts/peggy-whitson.html">Peggy Whitson</a></h3>
             <p>Longest total time in space</p>
             <p>665 days, 22 hours, and 22 minutes</p>
-        </div>
-    </div>
-    
-    <div class="text-wrapper">
-        <div class="ait">
-            <h2>1992</h2>
-            <h3><a href="/astronauts/roberta-bondar.html">Roberta Bondar</a></h3>
-            <p>First canadian woman in space; First neurologist in space</p>
-            <p>41 days, 19 hours, and 35  minutes</p>
         </div>
     </div>
     
@@ -263,12 +219,6 @@
               
 
                <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
-               <p><a href="/astronauts/ellen-ochoa.html">Ellen Ochoa</a></p>
-               <p>First Hispanic woman in space</p>
-
-              
-
-               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
                <p><a href="/astronauts/helen-sharman.html">Helen Sharman</a></p>
                <p>First British and first woman to visit the Mir space station</p>
 
@@ -289,12 +239,6 @@
                <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
                <p><a href="/astronauts/peggy-whitson.html">Peggy Whitson</a></p>
                <p>Longest total time in space</p>
-
-              
-
-               <img src="https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg" width="100" />
-               <p><a href="/astronauts/roberta-bondar.html">Roberta Bondar</a></p>
-               <p>First canadian woman in space; First neurologist in space</p>
 
               
 
@@ -343,9 +287,4 @@
       </div>
     </div>
 </div>
-
-
-
-  </body>
-
-</html>
+:ET
